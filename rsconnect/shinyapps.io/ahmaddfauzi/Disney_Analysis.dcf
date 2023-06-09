@@ -1,0 +1,14 @@
+name: Disney_Analysis
+title: Disney_Analysis
+username:
+account: ahmaddfauzi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9278659
+bundleId: 7325687
+url: https://ahmaddfauzi.shinyapps.io/Disney_Analysis/
+when: 1686329256.54229
+lastSyncTime: 1686329256.5423
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|[Capstone]_AhmadFauzi.Rmd|[CAPSTONE]_DRONESTRIKES_WARS_USA_AHMADFAUZI.Rmd|[Update]_AhmadFauzi.Rmd|brief_template.Rmd
